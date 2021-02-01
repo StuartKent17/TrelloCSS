@@ -8,6 +8,10 @@ div#trello-root:before {
     z-index: -1;
 }
 
+a.list-card.js-member-droppable.ui-droppable {
+    margin: 7px!important;
+}
+
 div#header:hover {
     opacity: 1;
 }
